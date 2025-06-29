@@ -1,0 +1,1 @@
+![ERD Chart](./ALX-ERD.png)
